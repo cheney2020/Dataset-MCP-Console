@@ -1,0 +1,8 @@
+{
+  "name": "Dataset MCP Console",
+  "description": "面向 Agent、App、BI 和 OAP 的受治理数据集服务平台 MVP，通过 AI 自动补全元数据，由人工确认后发布。MVP 聚焦单数据集查询聚合闭环。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
